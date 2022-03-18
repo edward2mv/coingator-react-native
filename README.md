@@ -5,7 +5,7 @@
   <a href="http://edme.tech/" target="_blank">edme.tech</a>
 </h2>
 <div align="center">
- ![](./images/readme-img1.png)
+<img src="./images/readme-img1.png">
 
 </div>
 
