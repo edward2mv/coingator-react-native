@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "coingator-react-native",
+    "name": "CoinGator",
     "slug": "coingator-react-native",
+    "description": "A simple react native app that uses CoinGecko API.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

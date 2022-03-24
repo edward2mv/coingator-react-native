@@ -2,7 +2,7 @@
 
 <h2 align="center">
   CoinGator - v1.0<br/>
-  <a href="http://edme.tech/" target="_blank">edme.tech</a>
+  <a href="https://expo.dev/@edwizard/coingator-react-native" target="_blank">Coingator.app</a>
 </h2>
 <div align="center">
 <img src="./images/readme-img1.png">
